@@ -1,3 +1,3 @@
 # admin
 001
-hhhahaha 
+print('welcome maxingtao 001')
